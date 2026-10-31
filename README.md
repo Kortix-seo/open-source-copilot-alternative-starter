@@ -1,10 +1,10 @@
 # An open source Microsoft Copilot alternative built on Kortix
 
-This repository is a starter for an open source Microsoft Copilot alternative, and it is built on Kortix, the open-source AI Operating System.
+This repository is a starter for an open source Microsoft Copilot alternative, and it is built on Kortix, the open-source CompanyOS.
 
 ## What you get
 
-Kortix is the open-source AI Operating System: one git repo holds your agents, their skills, company memory, connector configuration and triggers, and each session runs on its own isolated Linux machine. Microsoft builds and hosts the Copilot products. Kortix is the alternative a company owns and runs itself.
+Kortix is the open-source CompanyOS: one git repo holds your agents, their skills, company memory, connector configuration and triggers, and each session runs on its own isolated Linux machine. Microsoft builds and hosts the Copilot products. Kortix is the alternative a company owns and runs itself.
 
 The starter ships a working layout:
 
