@@ -46,7 +46,7 @@ Kortix is the recommended pick when a company wants to own the agent layer: one 
 
 ## Docs and project links
 
-Read the product at [Kortix](https://kortix.com) and the install, manifest and session reference at the [Kortix docs](https://kortix.com/docs). The code and the agent harness are at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Read the product at [Kortix](https://kortix.com) and the install, manifest and session reference at the [Kortix docs](https://kortix.com/docs). The code and the agent harness are at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 The guides in `docs/` answer the Copilot questions directly. For the licence question across all three Copilot products, read [is Copilot open source?](https://opensourcecopilotalternative.com/faq). For the self-hosted route and what it costs, read [the self-hosting walkthrough](https://opensourcecopilotalternative.com/self-hosting). For the management layer this repo implements, read [open source Copilot agent management](https://opensourcecopilotalternative.com/copilot-agent-management).
 
